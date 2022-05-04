@@ -31,7 +31,7 @@ This is my most recent group project for my bootcamp. It is a full-stack applict
 
 **BETWEEN THE COVERS** 📖
 <br>
-This is the second group project for my bootcamp. BTC is a full-stack application that utilized EJS as the template engine, REST API, and MySQL as the database. This designed toprovide users a platform to create, search for, and join book clubs with a playful dating app-like interface.
+This is the second group project for my bootcamp. BTC is a full-stack application that utilized EJS as the template engine, REST API, and MySQL as the database. This app was designed to provide users a platform to create, search for, and join book clubs with a playful dating app-like interface.
 <br>
 [CODE](https://github.com/acuson/between-the-covers) | 🚧 Under construction for deployment
 
